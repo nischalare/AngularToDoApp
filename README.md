@@ -1,3 +1,4 @@
+hosted on firebase at https://angulartodolistapp-e6fd5.web.app/ 
 # AngularTodo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
